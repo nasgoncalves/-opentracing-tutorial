@@ -1,0 +1,4 @@
+opentracing
+jaeger-client
+flask
+requests
